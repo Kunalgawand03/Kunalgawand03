@@ -113,18 +113,6 @@ Computer-vision based system to detect sudden lane intrusions.
 
 ---
 
-# 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/kunal-gawand03"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/Kunalgawand03"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.instagram.com/kunal_gawand_03"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://leetcode.com/u/kunal_gawand_03"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
-  <a href="https://unstop.com/u/kunalgawand7748"><img src="https://img.shields.io/badge/Unstop-6A5ACD?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
