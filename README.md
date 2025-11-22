@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
   </a>
 
-  <a href="https://unstop.com/u/kunalgawand7748">
+  <a href="https://unstop.com/u/kunalgaw7748">
     <img src="https://img.shields.io/static/v1?message=Unstop&logo=hackerrank&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="unstop logo"  />
   </a>
 </div>
