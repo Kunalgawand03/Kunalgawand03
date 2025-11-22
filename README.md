@@ -93,7 +93,7 @@ Computer-vision based system to detect sudden lane intrusions.
 
 ---
 
-# 📊 GitHub Stats (Dark Neon Mode)
+# 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kunalgawand03&show_icons=true&theme=radical" height="170"/>
@@ -106,7 +106,7 @@ Computer-vision based system to detect sudden lane intrusions.
 
 ---
 
-# 🐍 Contribution Snake (Dark Mode)
+# 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
