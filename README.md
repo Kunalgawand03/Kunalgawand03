@@ -112,7 +112,6 @@ Computer-vision based system to detect sudden lane intrusions.
 </p>
 
 ---
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
