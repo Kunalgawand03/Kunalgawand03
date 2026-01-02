@@ -103,7 +103,6 @@ Computer-vision based system to detect sudden lane intrusions.
 <p align="center">
   <img width="500" src="https://streak-stats.demolab.com?user=Kunalgawand03&theme=radical" />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
