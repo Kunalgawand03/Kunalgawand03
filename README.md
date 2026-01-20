@@ -154,7 +154,7 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <br/>
 <p align=center>
     <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Kunalgawand03&count_private=true&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hiteshpatil2005&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&sideNums=00D1FF&datesside=00D1FF&Labelscurr=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Kunalgawand03&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&sideNums=00D1FF&datesside=00D1FF&Labelscurr=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
 </p>
 
 <p align="center">
