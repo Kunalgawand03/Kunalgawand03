@@ -193,11 +193,11 @@ src="https://img.shields.io/github/followers/Kunalgawand03?logo=github&style=for
             <br>LeetCode
         </td>
             <td align="center" width="96">
-            <a href="https://www.hackerrank.com/profile/hiteshpatil0205">
-              <img src="Assest/HackerRank.svg" width="40" height="40"/>
-            </a>
-            <br>HackerRank    
-        </td>
+            <a href="https://www.hackerrank.com/profile/gawandkunal2803">
+            <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="40" height="40"/>
+          </a>
+    <br>HackerRank
+</td>
         <td align="center" width="96">
       <a href="https://unstop.com/u/kunalgaw7748">
           <img src="https://img.icons8.com/fluency/96/trophy.png" width="40" height="40"/>
