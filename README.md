@@ -197,19 +197,20 @@ src="https://img.shields.io/github/followers/Kunalgawand03?logo=github&style=for
               <img src="Assest/HackerRank.svg" width="40" height="40"/>
             </a>
             <br>HackerRank    
-        <!-- </td>
-            <td align="center" width="96">
-            <a href="https://www.codechef.com/users/hitesh_2005">
-            <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="40" height="40"/>
-            </a>
-            <br>CodeChef -->
-        <!-- </td> 
-            <td align="center" width="96">
+        </td>
+        <td align="center" width="96">
+      <a href="https://unstop.com/u/kunalgaw7748">
+          <img src="https://img.icons8.com/fluency/96/trophy.png" width="40" height="40"/>
+          </a>
+         <br>Unstop
+      </td>    
+     </td> 
+            <!-- <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/user/hiteshpatil2005/">
             <img src="Assest/gfg.png" width="40" height="40"/>
             </a>
-            <br>GfG     -->
-        </td>
+            <br>GfG 
+        </td>-->
         </tr>
     </table>
   <br>
