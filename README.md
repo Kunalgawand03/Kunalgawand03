@@ -218,11 +218,12 @@ src="https://img.shields.io/github/followers/Kunalgawand03?logo=github&style=for
   <table align="center">
         <tr>
             <td align="center" width="96">
-            <a href="https://www.linkedin.com/in/kunal-gawand03">
-            <img src="Assest/linkedin%20gif.gif" width="40" height="40"/>
-            </a>
-            <br>Linkedin
-        </td>
+  <a href="https://www.linkedin.com/in/kunal-gawand03">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="40" height="40"/>
+  </a>
+  <br>LinkedIn
+  </td>
+
             <td align="center" width="96">
   <a href="https://instagram.com/kunal_gawand_03">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="40" height="40"/>
@@ -231,7 +232,7 @@ src="https://img.shields.io/github/followers/Kunalgawand03?logo=github&style=for
 </td>
         </td>
             <td align="center" width="96">
-            <a href="mailto:hiteshpatil0205@gmail.com">
+            <a href="mailto:gawandkunal2803@gmail.com">
             <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" width="40" height="40"/>
             </a>
             <br>Gmail
