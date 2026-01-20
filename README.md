@@ -223,7 +223,6 @@ src="https://img.shields.io/github/followers/Kunalgawand03?logo=github&style=for
   </a>
   <br>LinkedIn
   </td>
-
             <td align="center" width="96">
   <a href="https://instagram.com/kunal_gawand_03">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="40" height="40"/>
