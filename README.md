@@ -153,12 +153,12 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 <br/>
 <p align=center>
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=hiteshpatil2005&count_private=true&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Kunalgawand03&count_private=true&show_icons=true&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hiteshpatil2005&count_private=true&border_radius=20&ring=00D1FF&stroke=c9d1d9&background=0d1117&fire=00D1FF&currStreakNum=00D1FF&sideNums=00D1FF&sideNums=00D1FF&datesside=00D1FF&Labelscurr=00D1FF&currStreakLabel=00D1FF&sideLabels=00D1FF&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
 </p>
 
 <p align="center">
-<img width="420" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hiteshpatil2005&hide=HTML&langs_count=8&layout=compact&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
+<img width="420" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Kunalgawand03&hide=HTML&langs_count=8&layout=compact&title_color=00D1FF&icon_color=00D1FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="70%"/> 
 </p>
 
  <!----Profile Views--->
@@ -168,18 +168,18 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
 <h2 align="center"><img src="Assest/activity.gif" height="30">My Github Commits and Insight <img src="Assest/activity.gif" height="30"></h2>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiteshpatil2005&style=for-the-badge&color=1fbfb8"/>
+  <img src="https://komarev.com/ghpvc/?username=Kunalgawand03&style=for-the-badge&color=1fbfb8"/>
 </div>
 
 <p align="center">
-  <a href="https://github.com/hiteshpatil2005?tab=repositories&sort=stargazers">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/hiteshpatil2005?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" >
-  <a href="https://github.com/hiteshpatil2005?tab=followers"><img
-src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" /></a>
+  <a href="https://github.com/Kunalgawand03?tab=repositories&sort=stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Kunalgawand03?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" >
+  <a href="https://github.com/Kunalgawand03?tab=followers"><img
+src="https://img.shields.io/github/followers/Kunalgawand03?logo=github&style=for-the-badge&color=A6F6F1&labelColor=41AEA9" /></a>
 </p>
 <div>
-    <a href="https://github.com/hiteshpatil2005">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshpatil2005&theme=react-dark&hide_border=true&title_color=00D1FF&text_color=00D1FF&hide_title=false&area=true&custom_title=Hitesh's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
+    <a href="https://github.com/Kunalgawand03">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalgawand03&theme=react-dark&hide_border=true&title_color=00D1FF&text_color=00D1FF&hide_title=false&area=true&custom_title=Kunal's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
     </a>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
@@ -187,7 +187,7 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
     <table align="center">
         <tr>
             <td align="center" width="96">
-            <a href="https://leetcode.com/u/hiteshpatil2005">
+            <a href="https://leetcode.com/u/kunal_gawand_03">
             <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="40" height="40"/>
             </a>
             <br>LeetCode
@@ -197,18 +197,18 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
               <img src="Assest/HackerRank.svg" width="40" height="40"/>
             </a>
             <br>HackerRank    
-        </td>
+        <!-- </td>
             <td align="center" width="96">
             <a href="https://www.codechef.com/users/hitesh_2005">
             <img src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="40" height="40"/>
             </a>
-            <br>CodeChef
-        </td> 
+            <br>CodeChef -->
+        <!-- </td> 
             <td align="center" width="96">
             <a href="https://www.geeksforgeeks.org/user/hiteshpatil2005/">
             <img src="Assest/gfg.png" width="40" height="40"/>
             </a>
-            <br>GfG    
+            <br>GfG     -->
         </td>
         </tr>
     </table>
@@ -217,14 +217,14 @@ src="https://img.shields.io/github/followers/hiteshpatil2005?logo=github&style=f
   <table align="center">
         <tr>
             <td align="center" width="96">
-            <a href="https://www.linkedin.com/in/hiteshpatil2005">
+            <a href="https://www.linkedin.com/in/kunal-gawand03">
             <img src="Assest/linkedin%20gif.gif" width="40" height="40"/>
             </a>
             <br>Linkedin
         </td>
             <td align="center" width="96">
-            <a href="https://twitter.com/hiteshpatil2005">
-            <img src="Assest/twitter.gif" width="40" height="40"/>
+            <a href="https://instagram.com/kunal_gawand_03">
+            <img src="(https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)" width="40" height="40"/>
             </a>
             <br>Twitter
         </td>
