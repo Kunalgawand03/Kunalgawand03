@@ -32,7 +32,7 @@ in the field of Software Development.
 
 - Learning [DSA in JAVA](https://github.com/Kunalgawand03/Data-Structure-and-Algorithm-JAVA-.git) You can take reference of this repository.
 
-- Devloped a project of [Weather Foecasting Android App](https://github.com/hiteshpatil2005/Weather-Forcasting-App.git) with the help of Kotlin and OpenWeather API.
+- Devloped a project of [Wanderlust-explorer](https://github.com/Kunalgawand03/Wanderlust-explorer.git) with the help of javaScript and MongoDB  .
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
@@ -120,12 +120,12 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <br>Git Hub
         </td>
          <td align="center" width="96">
-            <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/xml.svg" width="40" height="40"/>
-            <br>XML
+              <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
+            <br>Hydra
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"/>
-            <br>Kotlin
+            <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="40" height="40"/>
+            <br>Machine Learning
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" alt="Redis" />
