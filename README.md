@@ -223,10 +223,11 @@ src="https://img.shields.io/github/followers/Kunalgawand03?logo=github&style=for
             <br>Linkedin
         </td>
             <td align="center" width="96">
-            <a href="https://instagram.com/kunal_gawand_03">
-            <img src="(https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)" width="40" height="40"/>
-            </a>
-            <br>Twitter
+  <a href="https://instagram.com/kunal_gawand_03">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="40" height="40"/>
+  </a>
+  <br>Instagram
+</td>
         </td>
             <td align="center" width="96">
             <a href="mailto:hiteshpatil0205@gmail.com">
