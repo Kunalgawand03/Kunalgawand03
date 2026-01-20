@@ -102,8 +102,8 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
           <br>Arduino
         </td>
         <td align="center" width="96">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
-            <br>IntelliJ
+         <img src="https://skillicons.dev/icons?i=idea" width="40" height="40"/>
+         <br>IntelliJ IDEA
         </td>
         <td align="center" width="96">
             <img src="https://github.com/duyu09/Duyu09/assets/92843163/ab4d451a-4cf6-454d-b434-4db314d88eef" width="40" height="40" />            
