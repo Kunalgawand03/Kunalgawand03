@@ -78,9 +78,9 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
     </tr>
     <tr>
         <td align="center" width="96">
-          <img src="https://github.com/duyu09/Duyu09/assets/92843163/292f2c1d-2c26-4d80-86e9-8b2046b388d8" width="40" height="40" />
-          <br> Markdown
-        </td>
+       <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="40" height="40" />
+        <br>AI
+       </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/>
             <br>Android Studio
