@@ -30,7 +30,7 @@ in the field of Software Development.
     
 - Tweaking This [Readme file 🔎](https://github.com/Kunalgawand03/Kunalgawand03/tree/main) For Optimal Engagement.
 
-- Learning [DSA in JAVA](https://github.com/Kunalgawand03/Data-Structures-Algorithm) You can take reference of this repository.
+- Learning [DSA in JAVA](https://github.com/Kunalgawand03/Data-Structure-and-Algorithm-JAVA-.git) You can take reference of this repository.
 
 - Devloped a project of [Weather Foecasting Android App](https://github.com/hiteshpatil2005/Weather-Forcasting-App.git) with the help of Kotlin and OpenWeather API.
 
