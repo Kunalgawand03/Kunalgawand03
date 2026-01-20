@@ -124,9 +124,9 @@ Here Are My Few Technical Assests Languages, Libraries I know,Tools I use and My
             <br>Hydra
         </td>
         <td align="center" width="96">
-            <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="40" height="40"/>
-            <br>Machine Learning
-        </td>
+         <img src="https://skillicons.dev/icons?i=python" width="40" height="40" />
+         <br>Machine Learning
+           </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=kali" width="40" height="40" alt="Redis" />
             <br>Kali Linux
