@@ -12,13 +12,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 <!--Github Trophies--->
-### Github Trophies <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/Trophy%20(1).gif" height="40">
+### Github Trophies <img src="https://github.com/Kunalgawand03/Kunalgawand03/blob/main/Assest/Trophy%20(1).gif" height="40">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiteshpatil2005&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kunalgawand03&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--About Me Section--->
 
-### About Me <img src="https://github.com/hiteshpatil2005/hiteshpatil2005/blob/main/Assest/stats.gif" height="37"><br>
+### About Me <img src="https://github.com/Kunalgawand03/Kunalgawand03/blob/main/Assest/stats.gif" height="37"><br>
 <div>
 
 I am Kunal Gawand from [Maharashtra,India](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). An energetic and detail-oriented Electronics And Computer Engineering student from  [Sanjivani College of Engineering](https://sanjivanicoe.org.in)  📚🎓 on a journey to bridge the digital realm.
@@ -28,7 +28,7 @@ in the field of Software Development.
 
 ### Working On <img src="Assest/activity.gif" height="25">
     
-- Tweaking This [Readme file 🔎](https://github.com/hiteshpatil2005/hiteshpatil2005/tree/main) For Optimal Engagement.
+- Tweaking This [Readme file 🔎](https://github.com/Kunalgawand03/Kunalgawand03/tree/main) For Optimal Engagement.
 
 - Learning [DSA in JAVA](https://github.com/hiteshpatil2005/Data-Structures-Algorithm) You can take reference of this repository.
 
