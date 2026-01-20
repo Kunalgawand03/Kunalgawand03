@@ -11,10 +11,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
-<!--Github Trophies--->
-### Github Trophies <img src="https://github.com/Kunalgawand03/Kunalgawand03/blob/main/Assest/Trophy%20(1).gif" height="40">
+### 🏆 GitHub Trophies 
+<img src="https://raw.githubusercontent.com/Kunalgawand03/Kunalgawand03/main/Assets/trophy.gif" height="40"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kunalgawand03&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kunalgawand03&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--About Me Section--->
 
