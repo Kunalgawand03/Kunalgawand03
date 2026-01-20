@@ -11,8 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
-### 🏆 GitHub Trophies 
-<img src="https://raw.githubusercontent.com/Kunalgawand03/Kunalgawand03/main/Assets/trophy.gif" height="40"/>
+### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kunalgawand03&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
