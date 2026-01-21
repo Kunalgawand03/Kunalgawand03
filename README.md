@@ -187,7 +187,7 @@ src="https://img.shields.io/github/followers/Kunalgawand03?logo=github&style=for
     <table align="center">
         <tr>
             <td align="center" width="96">
-            <a href="https://leetcode.com/u/kunal_gawand_03">
+            <!-- <a href="https://leetcode.com/u/kunal_gawand_03"> -->
             <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" width="40" height="40"/>
             </a>
             <br>LeetCode
