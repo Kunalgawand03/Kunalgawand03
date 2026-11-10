@@ -15,7 +15,6 @@
 
 -->
 <!--About Me Section--->
-
 ### About Me <img src="https://github.com/Kunalgawand03/Kunalgawand03/blob/main/Assest/stats.gif" height="37"><br>
 <div>
 
